@@ -1,8 +1,8 @@
 ---
 version: '2'
 # Configuration of the Cycloid stack
-name: 'Dummy stack 2'
-canonical: 'stack-dummy-2'
+name: 'Dummy stack 3'
+canonical: 'stack-dummy-3'
 status: 'public'
 description: |
   This stack is a dummy stack which contain only a hello world pipeline.
